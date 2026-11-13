@@ -4,7 +4,7 @@
 
 [下载最新版 Windows x64 完整离线安装包](https://github.com/sessilagion-jpg/audit-automation-releases/releases/latest/download/AuditAutomationDesktop-win-Setup.exe)
 
-首次运行安装包即可。安装后从“审计自动化”快捷方式启动，软件会检查新版并自动更新后打开；无需 GitHub 账号。
+安装向导可选择安装位置、桌面图标和开始菜单入口。安装目录根部的“审计自动化.exe”为稳定启动入口。软件左下角“使用教程”可打开内置图文手册，另附PDF和模拟练习账表。安装后从“审计自动化”快捷方式启动，软件会检查新版并自动更新后打开；无需 GitHub 账号。
 没有网络、下载失败或选择跳过更新时，可继续使用已安装版本。核心账表处理和底稿生成功能在本机离线运行。
 
 项目与账表不上传到本仓库。程序更新不会替换项目数据，已修改的自定义模板保留。
